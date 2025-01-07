@@ -30,7 +30,7 @@ Ensure you have the following software installed on your system:
 ### ⚙️ Setup
 #### 1. Clone the Project
 ```bash
-git clone https://github.com/cihat-kose/appium-test-lab-.git
+git clone https://github.com/cihat-kose/appium-test-lab.git
 cd appium-test-lab
 ```
 
